@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
        <h1>India won 6 medals in olympics 2024 </h1>
+       <h1>India won 5 bronze medals in  olympics 2024</h1>
     </div>
   );
 }
